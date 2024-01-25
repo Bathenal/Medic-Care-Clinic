@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #fbfcfb;
+    color: white;
+    text-align: center;
+    float: right;}
+ul li{
+        list-style-type:none;
+        width:200px;   
+        display: inline-block;
+        padding: 20px;
+        margin: o auto;
+}
+
+#container{
+    width:95%;
+     margin:0 auto;}
+#home {
+
+
+        height:100vh;
+        background:  url("images/ezgif-2-b583d0ce77.png") no-repeat center center/cover;
+        padding: 80px;
+        margin: 30px;
+        text-align: center;
+    }
+.img1{
+        width: 300px;
+        float: left;
+        margin: 30px;
+
+  }
+ 
+#about{
+          width: 300px;
+          margin: 30px;
+          
+        }
+ .us{
+    float: right;
+ }       
+#doctors{
+border: outset;
+width: 300px;
+float: left;
+margin: 30px;
+padding: 15px;
+}            
+#care{
+    border: outset;
+    width: 300px;
+    float: left;
+    margin: 30px;
+    padding: 15px;
+
+
+}
+#service{
+    border: outset;
+    width: 300px;
+    float: left;
+    margin: 30px;
+    padding: 15px;
+
+
+}
+
+.footer-content>div{
+float: left;
+width: 25%;
+
+}
+
+.footer-logo{
+    width: 50%;
+}
+
+.social-icons img{
+    width: 40px;
+}
+.health{
+    float: right;
+    color: rgb(0, 162, 255);
+    position: relative;
+    font-size: 60px;
+    padding: 15px;
+
+}
+.quality-care{
+    float: right;
+}    padding: 15px;
+
+.button1{
+    background-color: #496BF2;
+    padding: 15px;
+    margin: 20px;
+}
+.button2{
+    background-color: #2DD6C1;
+    padding: 15px;
+    margin: 20px;
+}
+.button3{
+    background-color: #496BF2;
+    padding: 15px;
+    margin: 20px;
+}
+.clearfix{
+    clear: both;
+}
+.d{
+    color: #496BF2;
+}
+#contact{
+    padding: 15px;
+
+}
+#testimonials{    
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
