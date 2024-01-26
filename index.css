@@ -139,9 +139,18 @@ width: 25%;
     padding: 15px;
     text-align: center;
 }
-
-
-
+.h2{
+    text-align: center;
+}
+.span1{
+    color: #2DD6C1;
+}
+.span2{
+    color: #496BF2;
+}
+.li{
+    float: left;
+}
 
 
 
