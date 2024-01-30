@@ -13,8 +13,8 @@ body {
   width: 80%;
   margin: 10;
 }
-.img {
-  margin: 20px;
+img {
+  margin: 0 20px;
 }
 
 nav {
@@ -24,6 +24,7 @@ nav {
   float: right;
   padding: 10px;
   margin: 10px;
+  -moz-text-decoration-style: none;
 }
 ul li {
   list-style-type: none;
@@ -43,7 +44,7 @@ ul li {
 .img1 {
   width: 100%;
   float: left;
-  margin-right: 10px;
+  margin-left: 50px;
 }
 #about1 {
   position: relative;
@@ -57,28 +58,30 @@ ul li {
 .us {
   float: left;
   width: 50%;
-  margin: 30px;
 }
 #doctors {
   box-shadow: 0px 0px 5px;
-  width: 300px;
+  width: 550px;
   float: left;
   margin: 30px;
   padding: 15px;
+  text-align: center;
 }
 #care {
   box-shadow: 0px 0px 5px;
-  width: 300px;
+  width: 550px;
   float: left;
   margin: 30px;
   padding: 15px;
+  text-align: center;
 }
 #service {
   box-shadow: 0px 0px 5px;
-  width: 300px;
+  width: 550px;
   float: left;
   margin: 30px;
   padding: 15px;
+  text-align: center;
 }
 footer {
   margin: 20px;
@@ -141,7 +144,7 @@ footer {
   text-align: center;
 }
 .span1 {
-  color: #2dd6c1;
+  color: #16e716;
 }
 .span2 {
   color: #496bf2;
@@ -184,4 +187,14 @@ footer {
   margin: 0 auto;
   width: 20%;
   background-color: crimson;
+}
+.boel {
+  width: 50%;
+  margin: 0 auto;
+}
+.qm1 {
+  text-align: left;
+}
+.qm2 {
+  ftext-align: right;
 }
