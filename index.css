@@ -41,9 +41,9 @@ ul li {
   background: url("images/ezgif-2-b583d0ce77.png") no-repeat center center/cover;
 }
 .img1 {
-  width: 50%;
+  width: 100%;
   float: left;
-  margin: 30px;
+  margin-right: 10px;
 }
 #about1 {
   position: relative;
